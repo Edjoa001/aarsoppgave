@@ -1,0 +1,8 @@
+Tutorial: Hvordan spille tre på rad
+
+Tre på rad er et 3x3 ruter tomanns-spill hvor målet 
+er å få tre av sine symboler på en rett linje.
+
+1. Bestem hvem som begynner, kryss (X) starter alltid først. 
+2. Hen plasserer sin brikke et sted før spilleren med runding (O) plasserer sin. 
+3. Slik fortsetter dere til en har fått tre på rad, eller det ikke er flere tomrom igjen.
