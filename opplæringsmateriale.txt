@@ -1,8 +1,17 @@
+Hvordan kjøre spill:
+
+1. Besøk https://github.com/Edjoa001/aarsoppgave
+2. Trykk på grønn knapp som heter "<> Code" og dermed nederst trykk download ZIP
+3. Finn filen din på pc-en din, høyre klikk > Extract all
+4. Trykk deg inn på filen > index.html
+5. Spill spillet
+
+
 Tutorial: Hvordan spille tre på rad
 
-Tre på rad er et 3x3 ruter tomanns-spill hvor målet 
+Tre på rad er et 3x3 ruter tomanns-spill hvor målet
 er å få tre av sine symboler på en rett linje.
 
-1. Bestem hvem som begynner, kryss (X) starter alltid først. 
-2. Hen plasserer sin brikke et sted før spilleren med runding (O) plasserer sin. 
+1. Bestem hvem som begynner, kryss (X) starter alltid først.
+2. Hen plasserer sin brikke et sted før spilleren med runding (O) plasserer sin.
 3. Slik fortsetter dere til en har fått tre på rad, eller det ikke er flere tomrom igjen.
